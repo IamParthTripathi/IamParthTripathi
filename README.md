@@ -11,9 +11,9 @@ systems that solve real problems. Currently open to AI Engineer / ML Engineer ro
 
 | Project | What it does | Live Demo |
 |---------|-------------|-----------|
-| [DocuMind](https://github.com/IamParthTripathi/documind) | Multi-agent RAG Q&A over any document | [▶ Try it](https://huggingface.co/spaces/IamParthTripathi/documind) |
-| [HireIQ](https://github.com/IamParthTripathi/hireiq) | AI Resume Screener + Mock Interview Agent | [▶ Try it](https://huggingface.co/spaces/IamParthTripathi/hireiq) |
-| [StockSense](https://github.com/IamParthTripathi/stocksense) | Financial RAG Agent with live news data | [▶ Try it](https://huggingface.co/spaces/IamParthTripathi/stocksense) |
+| [DocuMind](https://github.com/IamParthTripathi/documind) | Multi-agent RAG Q&A over any document | [▶ Try it](https://iamparthtripathi-documind.hf.space/) |
+| [HireIQ](https://github.com/IamParthTripathi/hireiq) | AI Resume Screener + Mock Interview Agent | [▶ Try it](https://iamparthtripathi-hireiq.hf.space/) |
+| [StockSense](https://github.com/IamParthTripathi/stocksense) | Financial RAG Agent with live news data | [▶ Try it](https://iamparthtripathi-stocksense.hf.space/) |
 
 ---
 
