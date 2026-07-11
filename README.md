@@ -10,8 +10,8 @@ for Data Analyst roles.
 
 | Project | What it does | Live Demo |
 |---------|-------------|-----------|
-| [Flight Delay Analytics & Prediction](https://github.com/shakrashamim/flight-delay-analytics-prediction) | SQL + ML pipeline predicting flight delay risk (0.82 ROC-AUC) with a live operational dashboard | [▶ Try it](https://flight-delay-analytics-prediction.streamlit.app/) |
-| [Customer Segmentation & Market Basket Analysis](https://github.com/shakrashamim/ecommerce-segmentation-basket-analysis) | RFM + K-Means customer segmentation and association-rule mining for cross-sell recommendations | [▶ Try it](https://ecommerce-segmentation-basket-analysis.streamlit.app/) |
+| [Flight Delay Analytics & Prediction](https://github.com/IamParthTripathi/flight-delay-analytics-prediction) | SQL + ML pipeline predicting flight delay risk (0.82 ROC-AUC) with a live operational dashboard | [▶ Try it](https://flight-delay-analytics-prediction.streamlit.app/) |
+| [Customer Segmentation & Market Basket Analysis](https://github.com/IamParthTripathi/ecommerce-segmentation-basket-analysis) | RFM + K-Means customer segmentation and association-rule mining for cross-sell recommendations | [▶ Try it](https://ecommerce-segmentation-basket-analysis.streamlit.app/) |
 
 ---
 
