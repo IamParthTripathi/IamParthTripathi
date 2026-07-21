@@ -11,9 +11,9 @@ systems that solve real problems. Currently open to AI Engineer / Data Scientist
 
 | Project | What it does | Live Demo |
 |---------|-------------|-----------|
-| [DocuMind](https://github.com/IamParthTripathi/documind) | Multi-agent RAG Q&A over any document | [▶ Try it](https://huggingface.co/spaces/iamparthtripathi/documind) |
-| [HireIQ](https://github.com/IamParthTripathi/hireiq) | AI Resume Screener + Mock Interview Agent | [▶ Try it](https://huggingface.co/spaces/iamparthtripathi/hireiq) |
-| [StockSense](https://github.com/IamParthTripathi/stocksense) | Financial RAG Agent with live news data | [▶ Try it](https://huggingface.co/spaces/iamparthtripathi/stocksense) |
+| [DocuMind](https://github.com/IamParthTripathi/documind) | Multi-agent RAG Q&A over any document | [▶ Try it](https://iamparthtripathi-documind.hf.space) |
+| [HireIQ](https://github.com/IamParthTripathi/hireiq) | AI Resume Screener + Mock Interview Agent | [▶ Try it](https://iamparthtripathi-hireiq.hf.space) |
+| [StockSense](https://github.com/IamParthTripathi/stocksense) | Financial RAG Agent with live news data | [▶ Try it](https://iamparthtripathi-stocksense.hf.space) |
 | [Flight Delay Analytics & Prediction](https://github.com/IamParthTripathi/flight-delay-analytics-prediction) | SQL + ML pipeline predicting flight delay risk (0.82 ROC-AUC) with a live operational dashboard | [▶ Try it](https://flight-delay-analytics-prediction.streamlit.app/) |
 | [Customer Segmentation & Market Basket Analysis](https://github.com/IamParthTripathi/ecommerce-segmentation-basket-analysis) | RFM + K-Means customer segmentation and association-rule mining for cross-sell recommendations | [▶ Try it](https://ecommerce-segmentation-basket-analysis.streamlit.app/) |
 
